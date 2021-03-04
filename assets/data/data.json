@@ -1,0 +1,74 @@
+[
+  {
+    "club": "Ajax",
+    "filename": "ajax.png"
+  },
+  {
+    "club": "PSV",
+    "filename": "psv.png"
+  },
+  {
+    "club": "AZ",
+    "filename": "az.png"
+  },
+  {
+    "club": "Feyenoord",
+    "filename": "feyenoord.png"
+  },
+  {
+    "club": "Vitesse",
+    "filename": "vitesse.png"
+  },
+  {
+    "club": "FC Groningen",
+    "filename": "fcgroningen.png"
+  },
+  {
+    "club": "FC Utrecht",
+    "filename": "fcutrecht.png"
+  },
+  {
+    "club": "SC Heerenveen",
+    "filename": "scheerenveen.png"
+  },
+  {
+    "club": "Fortuna Sittard",
+    "filename": "fortunasittard.png"
+  },
+  {
+    "club": "ADO Den Haag",
+    "filename": "adodenhaag.png"
+  },
+  {
+    "club": "FC Emmen",
+    "filename": "fcemmen.png"
+  },
+  {
+    "club": "FC Twente",
+    "filename": "fctwente.png"
+  },
+  {
+    "club": "Heracles Almelo",
+    "filename": "heraclesalmelo.png"
+  },
+  {
+    "club": "PEC Zwolle",
+    "filename": "peczwolle.png"
+  },
+  {
+    "club": "RKC Waalwijk",
+    "filename": "rkcwaalwijk.png"
+  },
+  {
+    "club": "Sparta Rotterdam",
+    "filename": "spartarotterdam.png"
+  },
+  {
+    "club": "VVV-Venlo",
+    "filename": "vvvvenlo.png"
+  },
+  {
+    "club": "Willem II",
+    "filename": "willemii.png"
+  }
+]
