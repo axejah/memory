@@ -5,7 +5,9 @@ let flippedCard = false;
 let lockCards = false;
 let firstCard, secondCard;
 
-getData("https://axejah.github.io/memory/assets/data/data.json").then((data) =>
+getData("https://axejah.github.io/memory/assets/data/data.json", {
+  headers: { "Content-type": "application/json;charset=UTF-8" },
+}).then((data) =>
   data.map((club) => {
     return (
       generateDiv(club.filename, club.club),
